@@ -1,2 +1,2 @@
-# message_generator
+#Horoscope Generator
 Generates a completely random horoscope. 
